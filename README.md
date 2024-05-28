@@ -37,6 +37,8 @@ import java.utill.Random;
   |두자리 정수|`10`부터 `90`개|
 
   난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인 할 수 있습니다.
+
+   ![카지노 이미지](https://www.ramadajeju.co.kr/RamadaPlazaJeju_common/images/homepage/facilities/CASINO03.jpg)
   
 
 
