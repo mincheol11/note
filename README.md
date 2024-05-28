@@ -16,6 +16,7 @@
  Random r = new Random();
  ```
  이 도구를 사용하기 위해서는 imprt가 필요합니다
-  ```java import jaa.utill.Random;
+  ```
+java import jaa.utill.Random;
  ```
  import는 직접 작성하지 않고 ctrl shift o 를 누릅니다.
